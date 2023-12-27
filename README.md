@@ -1,1 +1,1 @@
-# super7tech-iq-test
+IQ Test Section.
